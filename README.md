@@ -133,8 +133,8 @@ void digital_input()
 ```
 
 ## OUTPUT
-<img width="948" height="1280" alt="image" src="https://github.com/user-attachments/assets/e570d60a-78a9-4f7d-9f41-dc3c01b936a3" />
-<img width="628" height="1280" alt="image" src="https://github.com/user-attachments/assets/2714b4a0-1f28-433c-8701-00d9d3ba996b" />
+![IOTEXP2OP1BB](https://github.com/user-attachments/assets/3cb2b4ff-bccc-47d7-b4b9-8681f72c46e3)
+<img width="853" height="1280" alt="image" src="https://github.com/user-attachments/assets/e6202c33-a663-4e2f-9c28-cb8d31967362" />
 
 ## Result
 Interfacing a digital Input (ir pair) with ARM microcontroller based IOT development is executed and the results are verified.
